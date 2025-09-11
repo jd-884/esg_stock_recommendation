@@ -1,0 +1,12 @@
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / build / Python artifacts (adjust per your project type)
+node_modules/
+dist/
+*.pyc
+__pycache__/
