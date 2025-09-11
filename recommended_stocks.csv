@@ -1,0 +1,11 @@
+ticker,esg_score,volatility,sector,price
+STOCK_69,9.9,0.34,Energy,40.02
+STOCK_11,9.8,0.16,Energy,99.2
+STOCK_1,9.6,0.35,Energy,50.81
+STOCK_33,9.6,0.24,Energy,27.52
+STOCK_52,9.5,0.16,Healthcare,63.25
+STOCK_55,9.4,0.2,Finance,98.07
+STOCK_43,9.3,0.22,Energy,48.82
+STOCK_53,9.2,0.3,Healthcare,70.99
+STOCK_88,9.1,0.31,Technology,57.93
+STOCK_7,8.9,0.4,Energy,75.68
