@@ -1,0 +1,106 @@
+ticker,price,volatility,sector,esg_score,cluster
+AAPL,234.07,0.33,Technology,4.4,1
+MSFT,509.9,0.25,Technology,8.5,0
+GOOGL,240.8,0.32,Communication Services,4.3,1
+AMZN,228.15,0.34,Consumer Cyclical,9.0,0
+NVDA,177.82,0.5,Technology,9.9,2
+META,755.59,0.37,Communication Services,8.4,0
+TSLA,395.94,0.71,Consumer Cyclical,4.3,2
+NFLX,1188.44,0.33,Communication Services,4.7,1
+ADBE,349.36,0.33,Technology,3.7,1
+CSCO,66.53,0.23,Technology,2.3,1
+INTC,24.08,0.58,Technology,5.9,2
+AMD,158.57,0.52,Technology,4.8,2
+ORCL,292.18,0.57,Technology,3.8,2
+CRM,242.76,0.33,Technology,2.7,1
+IBM,253.44,0.29,Technology,5.3,1
+QCOM,161.83,0.37,Technology,6.3,1
+TXN,182.6,0.4,Technology,5.4,1
+AVGO,359.87,0.57,Technology,4.9,2
+INTU,646.03,0.32,Technology,4.7,1
+NOW,928.96,0.4,Technology,7.7,0
+JPM,306.91,0.27,Financial Services,9.9,0
+BAC,50.58,0.28,Financial Services,4.0,1
+WFC,81.46,0.32,Financial Services,8.8,0
+GS,780.06,0.33,Financial Services,3.8,1
+MS,156.39,0.33,Financial Services,5.2,1
+C,99.44,0.33,Financial Services,5.7,1
+BLK,1123.41,0.27,Financial Services,4.3,1
+SCHW,93.54,0.27,Financial Services,8.9,0
+AXP,325.31,0.32,Financial Services,6.6,0
+TROW,105.63,0.3,Financial Services,8.2,0
+SPGI,544.23,0.22,Financial Services,8.9,0
+MCO,512.31,0.26,Financial Services,5.2,1
+PNC,201.98,0.26,Financial Services,9.8,0
+USB,49.13,0.29,Financial Services,3.7,1
+COF,223.76,0.4,Financial Services,3.7,1
+UNH,352.51,0.49,Healthcare,3.1,2
+PFE,23.87,0.25,Healthcare,2.8,1
+MRK,82.81,0.27,Healthcare,9.6,0
+JNJ,178.06,0.19,Healthcare,3.8,1
+ABT,133.73,0.22,Healthcare,9.3,0
+TMO,479.46,0.31,Healthcare,5.5,1
+DHR,190.05,0.31,Healthcare,4.6,1
+BMY,46.2,0.29,Healthcare,7.9,0
+AMGN,276.39,0.27,Healthcare,6.8,0
+GILD,114.55,0.28,Healthcare,7.9,0
+LLY,755.39,0.4,Healthcare,9.1,0
+ABBV,218.34,0.28,Healthcare,8.0,0
+CVS,74.98,0.38,Healthcare,8.2,0
+CI,302.76,0.3,Healthcare,8.6,0
+MDT,94.03,0.22,Healthcare,3.1,1
+XOM,112.16,0.24,Energy,4.8,1
+CVX,157.11,0.25,Energy,3.2,1
+COP,92.43,0.34,Energy,4.1,1
+SLB,35.57,0.36,Energy,7.2,0
+EOG,118.16,0.3,Energy,6.1,1
+OXY,45.67,0.35,Energy,5.1,1
+VLO,156.72,0.37,Energy,9.0,0
+PSX,130.78,0.36,Energy,7.5,0
+MPC,180.28,0.35,Energy,3.7,1
+HES,148.97,0.29,Energy,5.4,1
+PG,157.9,0.18,Consumer Defensive,5.3,1
+KO,67.01,0.17,Consumer Defensive,7.6,0
+PEP,143.53,0.22,Consumer Defensive,6.8,0
+WMT,103.49,0.24,Consumer Defensive,4.4,1
+TGT,89.96,0.4,Consumer Defensive,2.8,1
+COST,967.9,0.21,Consumer Defensive,3.7,1
+MCD,305.4,0.19,Consumer Cyclical,5.9,1
+SBUX,81.9,0.32,Consumer Cyclical,5.2,1
+CL,83.28,0.21,Consumer Defensive,9.9,0
+KMB,127.99,0.19,Consumer Defensive,4.9,1
+NKE,73.0,0.4,Consumer Cyclical,10.0,0
+HD,422.69,0.23,Consumer Cyclical,6.8,0
+LOW,271.83,0.24,Consumer Cyclical,5.1,1
+TJX,139.48,0.18,Consumer Cyclical,6.6,0
+BKNG,5458.32,0.27,Consumer Cyclical,3.2,1
+CMG,38.63,0.34,Consumer Cyclical,6.0,1
+DRI,212.61,0.29,Consumer Cyclical,5.3,1
+YUM,149.49,0.23,Consumer Cyclical,3.4,1
+LULU,159.87,0.51,Consumer Cyclical,8.1,2
+EBAY,90.8,0.34,Consumer Cyclical,9.1,0
+BA,215.94,0.37,Industrials,5.1,1
+LMT,471.31,0.27,Industrials,7.9,0
+CAT,431.52,0.3,Industrials,9.4,0
+DE,470.51,0.29,Industrials,2.5,1
+GE,281.69,0.32,Industrials,4.1,1
+HON,211.46,0.25,Industrials,4.8,1
+UPS,84.35,0.32,Industrials,2.9,1
+RTX,155.85,0.26,Industrials,10.0,0
+MMM,157.87,0.29,Industrials,4.4,1
+CSX,32.47,0.26,Industrials,5.3,1
+DOW,25.04,0.45,Basic Materials,3.7,2
+DD,77.29,0.33,Basic Materials,6.6,0
+NEM,79.25,0.38,Basic Materials,7.3,0
+FCX,44.72,0.45,Basic Materials,3.5,2
+APD,292.82,0.25,Basic Materials,3.3,1
+NEE,71.64,0.29,Utilities,9.1,0
+DUK,121.95,0.18,Utilities,2.1,1
+SO,92.27,0.18,Utilities,8.4,0
+D,60.05,0.23,Utilities,9.1,0
+AEP,109.46,0.19,Utilities,4.0,1
+PLD,115.35,0.29,Real Estate,8.9,0
+AMT,195.08,0.27,Real Estate,8.3,0
+CCI,95.39,0.26,Real Estate,9.6,0
+EQIX,788.61,0.27,Real Estate,6.4,0
+PSA,292.32,0.23,Real Estate,7.0,0
